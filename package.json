@@ -1,0 +1,10 @@
+{
+  "name": "wip",
+  "version": "0.0.0-development",
+  "description": "A GitHub Action for marking PRs as work-in-progress",
+  "main": "index.js",
+  "dependencies": {
+    "@actions/core": "^1.2.4",
+    "@actions/github": "^2.2.0"
+  }
+}
